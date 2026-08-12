@@ -1,0 +1,31 @@
+{
+  "name": "ZaslugaBet",
+  "short_name": "ZaslugaBet",
+  "description": "2/1 • 1/2 için dokuz formüllü maç radarı",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#062b18",
+  "theme_color": "#0b3d21",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
