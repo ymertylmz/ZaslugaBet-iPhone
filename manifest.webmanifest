@@ -1,13 +1,17 @@
 {
+  "id": "/ZaslugaBet-iPhone/",
   "name": "ZaslugaBet",
   "short_name": "ZaslugaBet",
   "description": "2/1 • 1/2 için dokuz formüllü maç radarı",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/ZaslugaBet-iPhone/",
+  "scope": "/ZaslugaBet-iPhone/",
   "display": "standalone",
+  "display_override": [
+    "standalone",
+    "fullscreen"
+  ],
   "background_color": "#062b18",
   "theme_color": "#0b3d21",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icons/icon-192.png",
